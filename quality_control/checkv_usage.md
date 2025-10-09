@@ -16,10 +16,9 @@ Quality assessment pipeline for viral sequences using CHECKV (Check Viral). This
 - **Python** 3.8+ with pandas, matplotlib
 - **Bash** environment
 
-# Download CHECKV database
+## Download CHECKV database
 checkv download_database ./checkv-db
 
 # Database should contain:
-# - viral RefSeq genomes
-# - prokaryotic genomes  
-# - protein clusters
+- viral RefSeq genomes
+- prokaryotic genomes   - protein clusters
