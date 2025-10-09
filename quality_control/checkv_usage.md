@@ -19,6 +19,7 @@ Quality assessment pipeline for viral sequences using CHECKV (Check Viral). This
 ## Download CHECKV database
 checkv download_database ./checkv-db
 
-# Database should contain:
+## Database should contain:
 - viral RefSeq genomes
-- prokaryotic genomes   - protein clusters
+- prokaryotic genomes   
+- protein clusters
