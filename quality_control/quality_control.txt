@@ -1,0 +1,32 @@
+CHECKV QUALITY CONTROL COMMAND
+
+Exact Command Used:
+checkv end_to_end ~/phage_sequences/fasta_downloads/all_sequences.fasta \
+                  ~/phage_sequences/fasta_downloads/checkv_output/ \
+                  -t 8 \
+                  -d ~/checkv-db/checkv-db
+
+USAGE INSTRUCTIONS:
+
+For New Users - Replace These Paths:
+checkv end_to_end /path/to/your/sequences.fasta \     # REPLACE: Your input FASTA file
+                  /path/to/your/output/directory/ \   # REPLACE: Where to save results
+                  -t 8 \                              # OPTIONAL: Number of CPU threads
+                  -d /path/to/checkv-database/        # REPLACE: CHECKV database location
+
+PARAMETER EXPLANATION:
+- end_to_end: Runs complete CHECKV pipeline
+- First path: REPLACE with your combined FASTA file  
+- Second path: REPLACE with your output directory
+- -t 8: Number of CPU threads
+- -d: REPLACE with your CHECKV database path
+
+PREREQUISITES:
+1. CHECKV installed: conda install -c bioconda checkv
+2. CHECKV database downloaded
+3. All sequences in one FASTA file
+
+EXPECTED OUTPUT:
+- quality_summary.tsv
+- completeness.tsv  
+- contamination.tsv
