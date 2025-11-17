@@ -1,0 +1,59 @@
+>LN610572.1 Pseudomonas phage vB_PaeM_C2-10_Ab02, complete genome
+0 genes found
+>LN610573.1 Pseudomonas phage vB_PaeM_PAO1_Ab03, complete genome
+0 genes found
+>LN610574.1 Pseudomonas phage vB_PaeP_PAO1_Ab05, complete genome
+0 genes found
+>LN610575.1 Pseudomonas phage vB_PaeM_C2-10_Ab08, complete genome
+0 genes found
+>LN610576.1 Pseudomonas phage vB_PaeM_PAO1_Ab17, complete genome
+0 genes found
+>LN610577.1 Pseudomonas phage vB_PaeS_PAO1_Ab18, complete genome
+0 genes found
+>LN610578.1 Pseudomonas phage vB_PaeP_C2-10_Ab22, complete genome
+0 genes found
+>LN610579.1 Pseudomonas phage vB_PaeM_PAO1_Ab27, complete genome
+0 genes found
+>LN610580.1 Pseudomonas phage vB_PaeP_PAO1_1-15pyo, complete genome
+0 genes found
+>LN610581.1 Pseudomonas phage vB_PaeM_PAO1_Ab04, complete genome
+0 genes found
+>LN610582.1 Pseudomonas phage vB_PaeM_PAO1_Ab06, complete genome
+0 genes found
+>LN610583.1 Pseudomonas phage vB_PaeM_PAO1_Ab11, complete genome
+0 genes found
+>LN610584.1 Pseudomonas phage vB_PaeS_PAO1_Ab19, complete genome
+0 genes found
+>LN610585.1 Pseudomonas phage vB_PaeS_PAO1_Ab20, complete genome
+0 genes found
+>LN610586.1 Pseudomonas phage vB_PaeM_C2-10_Ab10, complete genome
+0 genes found
+>LN610587.1 Pseudomonas phage vB_PaeM_C2-10_Ab15, complete genome
+0 genes found
+>LN610588.1 Pseudomonas phage vB_PaeM_PAO1_Ab29, complete genome
+0 genes found
+>LN610589.1 Pseudomonas phage vB_PaeM_C1-14_Ab28, complete genome
+0 genes found
+>LN610590.1 Pseudomonas phage vB_PaeS_PAO1_Ab30, complete genome
+0 genes found
+>OM870967.1 Pseudomonas phage vB_Paer_Ps12, complete genome
+0 genes found
+>OM870968.1 Pseudomonas phage vB_Paer_Ps25, complete genome
+0 genes found
+>OM870969.1 Pseudomonas phage vB_Paer_PsCh, complete genome
+0 genes found
+>OM870970.1 Pseudomonas phage vB_Paer_PsIn, complete genome
+0 genes found
+>OQ134474.1 Pseudomonas phage vB_PaeP_PS28, complete genome
+0 genes found
+>OQ411628.1 Pseudomonas phage vB_PaeM_PS3, complete genome
+0 genes found
+>PP456877.1 Pseudomonas phage vB_Pae3705-KEN49, complete genome
+0 genes found
+>PP456878.1 Pseudomonas phage vB_PaePAO1-KEN19, complete genome
+0 genes found
+>PP456879.1 Pseudomonas phage vB_Pae10145-KEN51, complete genome
+0 genes found
+>PP968062.1 Pseudomonas phage HPP-Temi, complete genome
+0 genes found
+>end 	29 sequences 0 tmRNA genes, nothing found in 29 sequences, (0.00% sensitivity)

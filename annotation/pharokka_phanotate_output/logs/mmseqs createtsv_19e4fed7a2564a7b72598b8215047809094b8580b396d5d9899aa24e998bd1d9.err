@@ -1,0 +1,1 @@
+Command line: mmseqs createtsv /home/karl/miniconda3/envs/pharokka/databases/vfdb ./pharokka_output/VFDB_target_dir/target_seqs ./pharokka_output/VFDB/results_mmseqs ./pharokka_output/vfdb_results.tsv --full-header --threads 4

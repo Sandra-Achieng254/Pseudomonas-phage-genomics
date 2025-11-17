@@ -1,0 +1,1 @@
+Command line: mash dist ./pharokka_output/input_mash_sketch.msh /home/karl/miniconda3/envs/pharokka/databases/9Aug2025_genomes.fa.msh -d 0.2 -i

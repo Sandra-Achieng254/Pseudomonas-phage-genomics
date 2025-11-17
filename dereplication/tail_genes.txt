@@ -1,0 +1,289 @@
+>SKTGIJFO_CDS_0028 RNA ligase and tail fiber protein attachment catalyst
+>SKTGIJFO_CDS_0070 tail sheath
+>SKTGIJFO_CDS_0075 tail assembly chaperone
+>SKTGIJFO_CDS_0078 tail length tape measure protein
+>SKTGIJFO_CDS_0079 tail fiber protein
+>SKTGIJFO_CDS_0081 baseplate hub
+>SKTGIJFO_CDS_0082 baseplate spike
+>SKTGIJFO_CDS_0084 baseplate wedge subunit
+>SKTGIJFO_CDS_0086 tail fiber protein
+>SKTGIJFO_CDS_0087 tail fiber assembly
+>SKTGIJFO_CDS_0088 tail fiber protein
+>SKTGIJFO_CDS_0275 tail sheath
+>SKTGIJFO_CDS_0279 tail assembly chaperone
+>SKTGIJFO_CDS_0281 tail length tape measure protein
+>SKTGIJFO_CDS_0282 tail fiber protein
+>SKTGIJFO_CDS_0284 baseplate hub
+>SKTGIJFO_CDS_0285 baseplate spike
+>SKTGIJFO_CDS_0287 baseplate wedge subunit
+>SKTGIJFO_CDS_0289 tail fiber protein
+>SKTGIJFO_CDS_0290 tail fiber assembly
+>SKTGIJFO_CDS_0291 tail fiber protein
+>SKTGIJFO_CDS_0419 head-tail adaptor
+>SKTGIJFO_CDS_0423 tail protein
+>SKTGIJFO_CDS_0424 tail protein
+>SKTGIJFO_CDS_0428 tail fiber protein
+>SKTGIJFO_CDS_0429 tail fiber protein
+>SKTGIJFO_CDS_0430 tail fiber protein
+>SKTGIJFO_CDS_0431 tail fiber protein
+>SKTGIJFO_CDS_0468 RNA ligase and tail fiber protein attachment catalyst
+>SKTGIJFO_CDS_0511 tail sheath
+>SKTGIJFO_CDS_0516 tail assembly chaperone
+>SKTGIJFO_CDS_0519 tail length tape measure protein
+>SKTGIJFO_CDS_0520 tail fiber protein
+>SKTGIJFO_CDS_0522 baseplate hub
+>SKTGIJFO_CDS_0523 baseplate spike
+>SKTGIJFO_CDS_0525 baseplate wedge subunit
+>SKTGIJFO_CDS_0527 tail fiber protein
+>SKTGIJFO_CDS_0528 tail fiber assembly
+>SKTGIJFO_CDS_0529 tail fiber protein
+>SKTGIJFO_CDS_0716 tail sheath
+>SKTGIJFO_CDS_0720 tail assembly chaperone
+>SKTGIJFO_CDS_0722 tail length tape measure protein
+>SKTGIJFO_CDS_0723 tail fiber protein
+>SKTGIJFO_CDS_0725 baseplate hub
+>SKTGIJFO_CDS_0726 baseplate spike
+>SKTGIJFO_CDS_0728 baseplate wedge subunit
+>SKTGIJFO_CDS_0730 tail fiber protein
+>SKTGIJFO_CDS_0731 tail fiber assembly
+>SKTGIJFO_CDS_0732 tail fiber protein
+>SKTGIJFO_CDS_0873 head-tail adaptor Ad1
+>SKTGIJFO_CDS_0875 tail completion or Neck1 protein
+>SKTGIJFO_CDS_0876 tail terminator
+>SKTGIJFO_CDS_0877 minor tail protein
+>SKTGIJFO_CDS_0878 Tail assembly chaperone
+>SKTGIJFO_CDS_0880 tail length tape measure protein
+>SKTGIJFO_CDS_0883 tail assembly protein
+>SKTGIJFO_CDS_0884 tail assembly protein
+>SKTGIJFO_CDS_0885 tail assembly chaperone
+>SKTGIJFO_CDS_0886 tail assembly chaperone
+>SKTGIJFO_CDS_0887 tail protein
+>SKTGIJFO_CDS_0890 baseplate hub subunit and tail lysozyme
+>SKTGIJFO_CDS_0935 tail length tape measure protein
+>SKTGIJFO_CDS_0961 tail protein
+>SKTGIJFO_CDS_0995 tail length tape measure protein
+>SKTGIJFO_CDS_1032 tail completion or Neck1 protein
+>SKTGIJFO_CDS_1033 tail sheath
+>SKTGIJFO_CDS_1034 tail fiber protein
+>SKTGIJFO_CDS_1036 baseplate wedge subunit
+>SKTGIJFO_CDS_1038 tail fiber protein
+>SKTGIJFO_CDS_1039 tail fiber protein
+>SKTGIJFO_CDS_1040 tail fiber protein
+>SKTGIJFO_CDS_1042 lytic tail protein
+>SKTGIJFO_CDS_1043 baseplate hub
+>SKTGIJFO_CDS_1045 baseplate spike
+>SKTGIJFO_CDS_1046 baseplate wedge subunit
+>SKTGIJFO_CDS_1048 tail protein
+>SKTGIJFO_CDS_1049 tail fiber protein
+>SKTGIJFO_CDS_1062 tail assembly chaperone
+>SKTGIJFO_CDS_1120 head-tail adaptor
+>SKTGIJFO_CDS_1124 tail protein
+>SKTGIJFO_CDS_1125 tail protein
+>SKTGIJFO_CDS_1130 tail fiber protein
+>SKTGIJFO_CDS_1131 tail fiber protein
+>SKTGIJFO_CDS_1132 tail fiber protein
+>SKTGIJFO_CDS_1133 tail fiber protein
+>SKTGIJFO_CDS_1214 tail sheath
+>SKTGIJFO_CDS_1218 tail assembly chaperone
+>SKTGIJFO_CDS_1220 tail length tape measure protein
+>SKTGIJFO_CDS_1221 tail fiber protein
+>SKTGIJFO_CDS_1223 baseplate hub
+>SKTGIJFO_CDS_1224 baseplate spike
+>SKTGIJFO_CDS_1226 baseplate wedge subunit
+>SKTGIJFO_CDS_1228 tail fiber protein
+>SKTGIJFO_CDS_1229 tail fiber assembly
+>SKTGIJFO_CDS_1230 tail fiber protein
+>SKTGIJFO_CDS_1384 tail sheath
+>SKTGIJFO_CDS_1388 tail assembly chaperone
+>SKTGIJFO_CDS_1390 tail length tape measure protein
+>SKTGIJFO_CDS_1391 tail fiber protein
+>SKTGIJFO_CDS_1393 baseplate hub
+>SKTGIJFO_CDS_1394 baseplate spike
+>SKTGIJFO_CDS_1396 baseplate wedge subunit
+>SKTGIJFO_CDS_1398 tail fiber protein
+>SKTGIJFO_CDS_1399 tail fiber assembly
+>SKTGIJFO_CDS_1400 tail fiber protein
+>SKTGIJFO_CDS_1556 tail sheath
+>SKTGIJFO_CDS_1560 tail assembly chaperone
+>SKTGIJFO_CDS_1562 tail length tape measure protein
+>SKTGIJFO_CDS_1563 tail fiber protein
+>SKTGIJFO_CDS_1565 baseplate hub
+>SKTGIJFO_CDS_1566 baseplate spike
+>SKTGIJFO_CDS_1568 baseplate wedge subunit
+>SKTGIJFO_CDS_1570 tail fiber protein
+>SKTGIJFO_CDS_1571 tail fiber assembly
+>SKTGIJFO_CDS_1572 tail fiber protein
+>SKTGIJFO_CDS_1726 head-tail adaptor Ad1
+>SKTGIJFO_CDS_1728 tail completion or Neck1 protein
+>SKTGIJFO_CDS_1729 tail terminator
+>SKTGIJFO_CDS_1730 minor tail protein
+>SKTGIJFO_CDS_1731 Tail assembly chaperone
+>SKTGIJFO_CDS_1733 tail length tape measure protein
+>SKTGIJFO_CDS_1736 tail assembly protein
+>SKTGIJFO_CDS_1737 tail assembly protein
+>SKTGIJFO_CDS_1738 tail assembly chaperone
+>SKTGIJFO_CDS_1739 tail assembly chaperone
+>SKTGIJFO_CDS_1740 tail protein
+>SKTGIJFO_CDS_1743 baseplate hub subunit and tail lysozyme
+>SKTGIJFO_CDS_1815 head-tail adaptor Ad1
+>SKTGIJFO_CDS_1817 tail completion or Neck1 protein
+>SKTGIJFO_CDS_1818 tail terminator
+>SKTGIJFO_CDS_1819 minor tail protein
+>SKTGIJFO_CDS_1820 Tail assembly chaperone
+>SKTGIJFO_CDS_1822 tail length tape measure protein
+>SKTGIJFO_CDS_1825 tail assembly protein
+>SKTGIJFO_CDS_1826 tail assembly protein
+>SKTGIJFO_CDS_1827 tail assembly chaperone
+>SKTGIJFO_CDS_1828 tail assembly chaperone
+>SKTGIJFO_CDS_1829 tail protein
+>SKTGIJFO_CDS_1832 baseplate hub subunit and tail lysozyme
+>SKTGIJFO_CDS_1862 RNA ligase and tail fiber protein attachment catalyst
+>SKTGIJFO_CDS_1904 tail sheath
+>SKTGIJFO_CDS_1909 tail assembly chaperone
+>SKTGIJFO_CDS_1912 tail length tape measure protein
+>SKTGIJFO_CDS_1913 tail fiber protein
+>SKTGIJFO_CDS_1915 baseplate hub
+>SKTGIJFO_CDS_1916 baseplate spike
+>SKTGIJFO_CDS_1918 baseplate wedge subunit
+>SKTGIJFO_CDS_1920 tail fiber protein
+>SKTGIJFO_CDS_1921 tail fiber assembly
+>SKTGIJFO_CDS_1922 tail fiber protein
+>SKTGIJFO_CDS_2058 RNA ligase and tail fiber protein attachment catalyst
+>SKTGIJFO_CDS_2101 tail sheath
+>SKTGIJFO_CDS_2106 tail assembly chaperone
+>SKTGIJFO_CDS_2109 tail length tape measure protein
+>SKTGIJFO_CDS_2110 tail fiber protein
+>SKTGIJFO_CDS_2112 baseplate hub
+>SKTGIJFO_CDS_2113 baseplate spike
+>SKTGIJFO_CDS_2115 baseplate wedge subunit
+>SKTGIJFO_CDS_2117 tail fiber protein
+>SKTGIJFO_CDS_2118 tail fiber assembly
+>SKTGIJFO_CDS_2119 tail fiber protein
+>SKTGIJFO_CDS_2246 tail length tape measure protein
+>SKTGIJFO_CDS_2283 tail completion or Neck1 protein
+>SKTGIJFO_CDS_2284 tail sheath
+>SKTGIJFO_CDS_2285 tail fiber protein
+>SKTGIJFO_CDS_2287 baseplate wedge subunit
+>SKTGIJFO_CDS_2289 tail fiber protein
+>SKTGIJFO_CDS_2290 tail fiber protein
+>SKTGIJFO_CDS_2291 tail fiber protein
+>SKTGIJFO_CDS_2293 lytic tail protein
+>SKTGIJFO_CDS_2294 baseplate hub
+>SKTGIJFO_CDS_2296 baseplate spike
+>SKTGIJFO_CDS_2297 baseplate wedge subunit
+>SKTGIJFO_CDS_2299 tail protein
+>SKTGIJFO_CDS_2300 tail fiber protein
+>SKTGIJFO_CDS_2313 tail assembly chaperone
+>SKTGIJFO_CDS_2346 tail length tape measure protein
+>SKTGIJFO_CDS_2380 tail completion or Neck1 protein
+>SKTGIJFO_CDS_2381 tail sheath
+>SKTGIJFO_CDS_2382 tail fiber protein
+>SKTGIJFO_CDS_2384 baseplate wedge subunit
+>SKTGIJFO_CDS_2386 tail fiber protein
+>SKTGIJFO_CDS_2387 tail fiber protein
+>SKTGIJFO_CDS_2388 tail fiber protein
+>SKTGIJFO_CDS_2390 lytic tail protein
+>SKTGIJFO_CDS_2391 baseplate hub
+>SKTGIJFO_CDS_2393 baseplate spike
+>SKTGIJFO_CDS_2394 baseplate wedge subunit
+>SKTGIJFO_CDS_2396 tail protein
+>SKTGIJFO_CDS_2397 tail fiber protein
+>SKTGIJFO_CDS_2415 tail assembly chaperone
+>SKTGIJFO_CDS_2468 tail completion or Neck1 protein
+>SKTGIJFO_CDS_2476 head-tail adaptor
+>SKTGIJFO_CDS_2479 major tail protein with Ig-like domain
+>SKTGIJFO_CDS_2480 tail assembly chaperone
+>SKTGIJFO_CDS_2481 tail length tape measure protein
+>SKTGIJFO_CDS_2484 tail assembly protein
+>SKTGIJFO_CDS_2485 tail assembly protein
+>SKTGIJFO_CDS_2486 tail assembly chaperone
+>SKTGIJFO_CDS_2487 tail assembly chaperone
+>SKTGIJFO_CDS_2488 tail protein
+>SKTGIJFO_CDS_2503 tail sheath
+>SKTGIJFO_CDS_2508 tail assembly chaperone
+>SKTGIJFO_CDS_2511 tail length tape measure protein
+>SKTGIJFO_CDS_2512 tail fiber protein
+>SKTGIJFO_CDS_2514 baseplate hub
+>SKTGIJFO_CDS_2515 baseplate spike
+>SKTGIJFO_CDS_2517 baseplate wedge subunit
+>SKTGIJFO_CDS_2519 tail fiber protein
+>SKTGIJFO_CDS_2520 tail fiber assembly
+>SKTGIJFO_CDS_2521 tail fiber protein
+>SKTGIJFO_CDS_2645 RNA ligase and tail fiber protein attachment catalyst
+>SKTGIJFO_CDS_2689 tail sheath
+>SKTGIJFO_CDS_2694 tail assembly chaperone
+>SKTGIJFO_CDS_2697 tail length tape measure protein
+>SKTGIJFO_CDS_2698 tail fiber protein
+>SKTGIJFO_CDS_2700 baseplate hub
+>SKTGIJFO_CDS_2701 baseplate spike
+>SKTGIJFO_CDS_2703 baseplate wedge subunit
+>SKTGIJFO_CDS_2705 tail fiber protein
+>SKTGIJFO_CDS_2706 tail fiber assembly
+>SKTGIJFO_CDS_2707 tail fiber protein
+>SKTGIJFO_CDS_2830 RNA ligase and tail fiber protein attachment catalyst
+>SKTGIJFO_CDS_2874 tail sheath
+>SKTGIJFO_CDS_2879 tail assembly chaperone
+>SKTGIJFO_CDS_2882 tail length tape measure protein
+>SKTGIJFO_CDS_2883 tail fiber protein
+>SKTGIJFO_CDS_2885 baseplate hub
+>SKTGIJFO_CDS_2886 baseplate spike
+>SKTGIJFO_CDS_2888 baseplate wedge subunit
+>SKTGIJFO_CDS_2890 tail fiber protein
+>SKTGIJFO_CDS_2891 tail fiber assembly
+>SKTGIJFO_CDS_2892 tail fiber protein
+>SKTGIJFO_CDS_3026 RNA ligase and tail fiber protein attachment catalyst
+>SKTGIJFO_CDS_3069 tail sheath
+>SKTGIJFO_CDS_3074 tail assembly chaperone
+>SKTGIJFO_CDS_3077 tail length tape measure protein
+>SKTGIJFO_CDS_3078 tail fiber protein
+>SKTGIJFO_CDS_3080 baseplate hub
+>SKTGIJFO_CDS_3081 baseplate spike
+>SKTGIJFO_CDS_3083 baseplate wedge subunit
+>SKTGIJFO_CDS_3085 tail fiber protein
+>SKTGIJFO_CDS_3086 tail fiber assembly
+>SKTGIJFO_CDS_3087 tail fiber protein
+>SKTGIJFO_CDS_3219 RNA ligase and tail fiber protein attachment catalyst
+>SKTGIJFO_CDS_3271 tail fiber protein
+>SKTGIJFO_CDS_3274 tail fiber protein
+>SKTGIJFO_CDS_3347 tail length tape measure protein
+>SKTGIJFO_CDS_3390 tail sheath
+>SKTGIJFO_CDS_3395 tail assembly chaperone
+>SKTGIJFO_CDS_3398 tail length tape measure protein
+>SKTGIJFO_CDS_3399 tail fiber protein
+>SKTGIJFO_CDS_3401 baseplate hub
+>SKTGIJFO_CDS_3402 baseplate spike
+>SKTGIJFO_CDS_3404 baseplate wedge subunit
+>SKTGIJFO_CDS_3406 tail fiber protein
+>SKTGIJFO_CDS_3407 tail fiber assembly
+>SKTGIJFO_CDS_3408 tail fiber protein
+>SKTGIJFO_CDS_3547 RNA ligase and tail fiber protein attachment catalyst
+>SKTGIJFO_CDS_3762 tail fiber protein
+>SKTGIJFO_CDS_3781 baseplate assembly protein
+>SKTGIJFO_CDS_3804 tail fiber protein
+>SKTGIJFO_CDS_3805 tail sheath
+>SKTGIJFO_CDS_3821 tail protein
+>SKTGIJFO_CDS_3822 tail protein
+>SKTGIJFO_CDS_3974 tail sheath
+>SKTGIJFO_CDS_4181 tail fiber protein
+>SKTGIJFO_CDS_4200 baseplate assembly protein
+>SKTGIJFO_CDS_4223 tail fiber protein
+>SKTGIJFO_CDS_4224 tail sheath
+>SKTGIJFO_CDS_4240 tail protein
+>SKTGIJFO_CDS_4241 tail protein
+>SKTGIJFO_CDS_4393 tail sheath
+>SKTGIJFO_CDS_4599 tail fiber protein
+>SKTGIJFO_CDS_4618 baseplate assembly protein
+>SKTGIJFO_CDS_4641 tail fiber protein
+>SKTGIJFO_CDS_4642 tail sheath
+>SKTGIJFO_CDS_4658 tail protein
+>SKTGIJFO_CDS_4659 tail protein
+>SKTGIJFO_CDS_4810 tail sheath
+>SKTGIJFO_CDS_4812 tail assembly chaperone
+>SKTGIJFO_CDS_5018 tail fiber protein
+>SKTGIJFO_CDS_5044 baseplate assembly protein
+>SKTGIJFO_CDS_5065 tail fiber protein
+>SKTGIJFO_CDS_5066 tail sheath
+>SKTGIJFO_CDS_5068 tail sheath
+>SKTGIJFO_CDS_5082 tail protein
+>SKTGIJFO_CDS_5083 tail protein
+>SKTGIJFO_CDS_5243 tail sheath

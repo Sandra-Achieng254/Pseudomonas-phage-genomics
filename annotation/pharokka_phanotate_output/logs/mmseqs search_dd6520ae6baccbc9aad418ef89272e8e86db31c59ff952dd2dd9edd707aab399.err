@@ -1,0 +1,1 @@
+Command line: mmseqs search --min-seq-id 0.8 -c 0.4 /home/karl/miniconda3/envs/pharokka/databases/CARD ./pharokka_output/CARD_target_dir/target_seqs ./pharokka_output/CARD/results_mmseqs ./pharokka_output/CARD_dir/ -s 8.5 --threads 4

@@ -1,0 +1,1 @@
+Command line: mmseqs search -e 1E-05 /home/karl/miniconda3/envs/pharokka/databases/phrogs_profile_db ./pharokka_output/target_dir/target_seqs ./pharokka_output/mmseqs/results_mmseqs ./pharokka_output/tmp_dir/ -s 8.5 --threads 4

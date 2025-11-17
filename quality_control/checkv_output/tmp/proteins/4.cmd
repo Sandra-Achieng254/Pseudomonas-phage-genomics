@@ -1,0 +1,1 @@
+prodigal-gv  -m -p meta -i /home/sandrachieng/phage_sequences/fasta_downloads/checkv_output//tmp/proteins/4.fna -a /home/sandrachieng/phage_sequences/fasta_downloads/checkv_output//tmp/proteins/4.faa 1> /dev/null 2> /home/sandrachieng/phage_sequences/fasta_downloads/checkv_output//tmp/proteins/4.log
